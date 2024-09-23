@@ -1,5 +1,5 @@
 # roman
-conversion from roman numbers to decimal numbers
+conversion to roman numbers from decimal numbers
 
 read a number from stdin like this:
 
